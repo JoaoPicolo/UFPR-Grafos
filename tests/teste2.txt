@@ -1,0 +1,13 @@
+a b
+a c
+a d
+d c
+c b
+
+lixo
+modem
+caderno
+copo
+penal
+celular
+carregador
